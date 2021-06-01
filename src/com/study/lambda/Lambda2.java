@@ -1,4 +1,4 @@
-package com.study.blambda;
+package com.study.lambda;
 
 public class Lambda2 {
     public static class Person{

@@ -1,6 +1,4 @@
-package com.study.blambda;
-
-import java.util.Set;
+package com.study.lambda;
 
 public class Lambda3 {
     public static class Person {

@@ -1,4 +1,4 @@
-package com.study.blambda;
+package com.study.lambda;
 
 /**
  * 函数引用
