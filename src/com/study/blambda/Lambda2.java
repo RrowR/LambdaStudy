@@ -12,18 +12,18 @@ public class Lambda2 {
 
         public Person(String name) {
             this.name = name;
-            System.out.println("name的单个有参构造");
+            System.out.println(name+"的单个有参构造");
         }
 
         public Person(int age) {
             this.age = age;
-            System.out.println("age的单个有参构造");
+            System.out.println(age+"的单个有参构造");
         }
 
         public Person(String name, int age) {
             this.name = name;
             this.age = age;
-            System.out.println("name和age的有参构造");
+            System.out.println(name+"和"+age+"的有参构造");
         }
     }
 
